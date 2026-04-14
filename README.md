@@ -13,7 +13,7 @@ This project analyzes customer churn behavior using Python, SQL, and Power BI. T
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools Used
 - **Python (Pandas, NumPy)** – Data cleaning and analysis  
 - **MySQL** – Data querying and aggregation  
 - **Power BI** – Data visualization and dashboard creation  
