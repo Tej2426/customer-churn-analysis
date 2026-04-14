@@ -22,13 +22,7 @@ This project analyzes customer churn behavior using Python, SQL, and Power BI. T
 
 ## 📁 Project Structure
 
-customer-churn-analysis/
-│
-├── data/
-├── notebooks/
-├── dashboard/
-├── images/
-└── README.md
+customer-churn-analysis -> data -> notebooks -> dashboard -> images -> README.md
 
 ---
 
