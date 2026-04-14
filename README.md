@@ -68,10 +68,7 @@ SELECT Churn, COUNT(*)
 FROM customers
 GROUP BY Churn;
 
----
-
-# 🚀 Outcome
+```
+## 🚀 Outcome
 
 This project demonstrates an end-to-end data analysis workflow, combining Python, SQL, and Power BI to generate meaningful business insights.
-
-
